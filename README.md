@@ -1,2 +1,5 @@
 # Waveforms-From-Snails
-This is the companion repository to xxxx.xxxxx. It contains:....
+This is the companion repository to "One-loop Gravitational Bremsstrahlung and Waveforms from a Heavy-Mass Effective Field Theory" xxxx.xxxxx.
+The contents are: 
+
+
