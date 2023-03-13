@@ -3,7 +3,7 @@
 This is the companion repository to:
 
 "One-loop Gravitational Bremsstrahlung and Waveforms from a Heavy-Mass Effective Field Theory"
--xxxx.xxxxx
+-2303.06111
 Authors:
 Andreas Brandhuber, Graham R. Brown, Gang Chen, Stefano De Angelis, Joshua Gowdy and Gabriele Travaglini.
 
