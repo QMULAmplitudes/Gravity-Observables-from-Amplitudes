@@ -12,7 +12,8 @@ The contents are:
 tree_level_5_point.m    -File containing the tree-level 5 point HEFT amplitude with 4 scalars and 1 outgoing gravitons,
 tree_level_6_point.m    -File containing the tree-level 6 point HEFT amplitude with 4 scalars and 2 outgoing gravitons,
 one_loop_5_point.wl     -File containing the 1-loop 5 point HEFT amplitude with 4 scalars and 1 outgoing graviton,
-loading_results.nb	-Notebook where the amplitudes can be loaded and the notation is explained.
+loading_results.nb	-Notebook where all the amplitudes can be loaded and the notation is explained.
+1_loop_5_points_ex.nb	-Explanatory notebook for the 5 point  1-loop amplitude.
 
 
 
