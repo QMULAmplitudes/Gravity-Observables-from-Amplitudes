@@ -28,7 +28,7 @@
 (*\*SubsuperscriptBox[\(m\), \(2\), \(2\)]\),(1)].*)
 
 
-Amp5point1loopM13M22= I i1 \[Pi]+( R)/\[Pi]+( I i2 \[Pi])/Sqrt[-1+y^2]+ c1 \[ScriptCapitalI]1+ c2 \[ScriptCapitalI]2+( dIR)/\[Epsilon]+( lq Log[qq1/qq2])/\[Pi]+( lw2 Log[w2^2/w1^2])/\[Pi]+( ly Log[y+Sqrt[-1+y^2]])/(\[Pi] Sqrt[-1+y^2])+( lw1 Log[w1^2/\[Mu]IR^2])/\[Pi];
+Amp5point1loopM13M22= I i1 \[Pi]+( R)/\[Pi]+( I i2 \[Pi])/Sqrt[-1+y^2]+ c1 \[ScriptCapitalI]1+ c2 \[ScriptCapitalI]2+( dIR)/\[Epsilon]+( lq Log[qq1/qq2])/\[Pi]+( lw2 Log[w2^2/w1^2])/\[Pi]+( ly Log[y+Sqrt[-1+y^2]])/(\[Pi] Sqrt[-1+y^2])+( lw1 Log[w1^2/\[Mu]IR^2]);
 
 
 (* ::Text:: *)
@@ -60,7 +60,7 @@ replaceTriangleIntegrals={
 };
 
 
-(* ::Subsubsection::Closed:: *)
+(* ::Subsubsection:: *)
 (*Divergences*)
 
 
