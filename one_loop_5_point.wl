@@ -32,7 +32,11 @@ Amp5point1loopM13M22= I i1 \[Pi]+( R)/\[Pi]+( I i2 \[Pi])/Sqrt[-1+y^2]+ c1 \[Scr
 
 
 (* ::Text:: *)
-(*NOTE that what we denote here as lw1 is different from the main text and it simply the coefficient of log(Subscript[\[Mu], IR]).*)
+(*NOTE:*)
+(*   - What we denote here as lw1 is different from the main text in eq (7.1) and it is simply the   coefficient of log (1/\[Mu]IR^2) . *)
+(**)
+(*- The definitions of the integrals \[ScriptCapitalI]1 and \[ScriptCapitalI]2  here differ from those in the main text in eq . (6.4) by a factor of (1/2) . The coefficients c1 and c2 also change by a factor of 2 so that complete expression for the amplitude is the same here and in the paper .*)
+(**)
 
 
 (* ::Subsection:: *)
