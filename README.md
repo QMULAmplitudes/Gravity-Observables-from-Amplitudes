@@ -16,6 +16,9 @@ loading_results.nb	-Notebook where all the amplitudes can be loaded and the nota
 1_loop_5_points_ex.nb	-Explanatory notebook for the 5 point  1-loop amplitude.
 
 
+NOTE!!:
+   - What we denote in one_loop_5_point.wl as lw1 is different from the main text in eq (7.1) and it is simply the coefficient of log (\mu_IR). 
 
+   - The definitions of the integrals I1 and I2 in one_loop_5_point.wl differ from those in the main text in eq (6.4) by a factor of (1/2). The coefficients also change accordingly so that complete expression from the amplitude is the same here as in the paper.
 
 
