@@ -22,7 +22,7 @@
 (* - F3= v1.F.v2;*)
 
 
-subtractionM13M22=div/\[Epsilon]+logq1 Log[qq1]+logq2 Log[qq2]+logw1 Log[w1^2]+logw2 Log[w2^2]+(log\[Gamma]1 Log[-1+y^2])/Sqrt[-1+y^2]+log\[Gamma]2 Log[y+Sqrt[-1+y^2]]+rat;
+subtractionM13M22=2 div/\[Epsilon]+2 logq1 Log[qq1]+2 logq2 Log[qq2]+2 logw1 Log[w1^2]+2 logw2 Log[w2^2]+2 (log\[Gamma]1 Log[-1+y^2])/Sqrt[-1+y^2]+2 log\[Gamma]2 Log[y+Sqrt[-1+y^2]]+2 rat;
 
 
 (* ::Subsection:: *)
